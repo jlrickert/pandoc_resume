@@ -1,100 +1,84 @@
-Johnny Coder
-============
+Jared Rickert
+=============
+
+> [github - https://github.com/jlrickert](https://github.com/jlrickert) \
+> [linkedIn - https://www.linkedin.com/in/jaredrickert](https://www.linkedin.com/in/jaredrickert/) \
+> [jlrickert.me - https://jlrickert.me](https://jlrickert.me)
 
 ----
-
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
-
-----
-
-Education
----------
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+Summer of 2017
+:   **Great North Labs - Intern Programmer**; St. Cloud, Mn:
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Developed a web based mobile app using python Django restframework and React.
 
-* First item
+Summer of 2016
+:   **Deerwood Bank - Intern Programmer**; Baxter, MN:
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+Created scripts and programs to automate various tasks. Some of the tasks
+include:
 
-**That Other Job You Had**
-
-Also with a short description.
+* Created a basic employee access and permission system using MSSQL and python
+  for tracking all access rights.
+* Report generation to meet compliance with the government.
+* Added and maintained pages in SharePoint.
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Maintain my own services
+:   Maintain my own Linux server hosting various services:
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+    * Minecraft server including daily backups.
+    * Web server hosting my website.
+    * Asynchronous file synchronization using Syncthing.
+    * Postgresql database
+    * DNS setup
+    * Configured using Ansible
+    * Linux Experience: Use Arch Linux for all my setups. A minimalistic distro
+      that is close to Linux from scratch yet still practical.
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **C/C++:** First language I ever learned. Wrote Arduino applications, and
+    modified programs that run on my Arch Linux based machines.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **Python:** My language of choice if things need to be done quickly. Scripts
+    for my Arch based systems,
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   **Typescript/JavaScript:** Wrote frontend applications in React.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   **Haskell/Clojure/Lisp:** Spent Considerable time learning functional
+    programming and other math centric ways of viewing programming.
 
-[ref]: https://github.com/githubuser/superlongprojectname
+:   **Other languages:** Go, Ruby, Java, bash, Emacs Lisp, SQL
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+:   **Libraries**: Django, DRF, Flask, React, SQLAlchemy, Selenium, Bootstrap,
+    Rails
 
-* Human Languages:
+:   **Tools**: git, Docker, vim, Emacs, pandoc, relational databases, Ansible,
+    Heroku
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+Education
+---------
 
-* Random tidbit
+2014-2018 (expected)
+:   **BS, Computer Science**; St. Cloud State University (St. Cloud)
 
-* Other sort of impressive-sounding thing you did
+    * Computer Science I, and II
+    * Computer Architecture I, and II
+    * Software Systems
+
+2012-2014
+:   **AS, Engineering A.S**; Central Lakes College (Brainerd)
+
+    * Physics I and II
+    * Calculus I, II, and III
+    * Differential Equations
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <a href="mailto:jaredrickert52@gmail.com">jaredrickert52@gmail.com</a> • <a href="tel:+1-320-360-8538">(320)-360-8538</a> \
+> 801 10th street SW - Little Falls, Minnesota
