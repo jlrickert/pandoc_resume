@@ -24,17 +24,17 @@ docker-compose up -d
 
 #### Debian
 ```bash
-sudo apt install pandoc context
+sudo apt install pandoc context wkhtmltopdf # wkhtmltopdf is untestest here
 ```
 
 #### Fedora
 ```bash
-sudo dnf install pandoc texlive-collection-context
+sudo dnf install pandoc texlive-collection-context wkhtmltopdf # wkhtmltopdf is untestested here
 ```
 
 #### Arch
 ```bash
-sudo pacman -S pandoc texlive-core
+sudo pacman -S pandoc texlive-core wkhtmltopdf
 ```
 
 ### Troubleshooting
